@@ -1,0 +1,12 @@
+# Lorenz-Attractor
+![image](https://user-images.githubusercontent.com/40626584/176897876-7da619f7-3043-4769-9b0a-5a5d813e8623.png)
+![image](https://user-images.githubusercontent.com/40626584/176897942-ffbfdb36-a0c3-434c-a300-12b461361172.png)
+![image](https://user-images.githubusercontent.com/40626584/176897984-2d195a96-dd2a-4ccd-997c-3afdf2cef368.png)
+![image](https://user-images.githubusercontent.com/40626584/176898040-d49ef897-0d5f-40b6-ad51-fc4c535b7241.png)
+![image](https://user-images.githubusercontent.com/40626584/176898097-ccb3aa0e-b813-4753-9d8b-f08d2d7c6679.png)
+![image](https://user-images.githubusercontent.com/40626584/176898128-9d50a1d6-cc93-49e3-925f-1fa9701deed8.png)
+![image](https://user-images.githubusercontent.com/40626584/176898191-83633b4c-3e41-4ac4-b07d-e6143d9d528a.png)
+![image](https://user-images.githubusercontent.com/40626584/176898265-dceb5aab-f793-4563-9e31-9eb9364b99b8.png)
+![image](https://user-images.githubusercontent.com/40626584/176898299-88038b8e-27ca-4ad8-8e5c-3434e22deea2.png)
+![image](https://user-images.githubusercontent.com/40626584/176898342-35b4865c-1bed-40c2-a2b9-a141f29284e4.png)
+![image](https://user-images.githubusercontent.com/40626584/176898381-dd91dedf-e003-40a0-8ea6-dc6bac49093e.png)
